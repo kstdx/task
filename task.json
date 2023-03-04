@@ -1,0 +1,4 @@
+{
+    "dev": "echo hello",
+    "list": "ls"
+}
