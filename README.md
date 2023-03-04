@@ -1,6 +1,6 @@
 # task
 
-A very simple shell task manager for Linux
+A very simple shell task runner for Linux
 
 # installation
 
